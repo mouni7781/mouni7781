@@ -1,8 +1,11 @@
-## Hi there 👋
+✨ Hey there! I'm @mouni7781
+- 🔍 **Interests**: Artificial Intelligence, Machine Learning, Software Development  
+- 🤝 **Open to**: Collaborating on innovative and impactful tech projects  
+- 📫 **Contact**: mouniprakash25@gmail.com  
 
 <!--
 **mouni7781/mouni7781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+📬 Reach me at: mouniprakash25@gmail.com 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
