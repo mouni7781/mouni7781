@@ -1,5 +1,5 @@
 ✨ Hey there! I'm @mouni7781
-- 🔍 **Interests**: Artificial Intelligence, Machine Learning, Software Development  
+- 🔍 **Interests**: Artificial Intelligence, Machine Learning, Software Development,Web development 
 - 🤝 **Open to**: Collaborating on innovative and impactful tech projects  
 - 📫 **Contact**: mouniprakash25@gmail.com  
 
